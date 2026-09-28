@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/ise/vlsi/assignment1/d_latch.xst" -ofn "/home/ise/vlsi/assignment1/d_latch.syr" 
